@@ -1,2 +1,2 @@
 # Employee Salary Prediction
-Internship project upload
+ project upload
